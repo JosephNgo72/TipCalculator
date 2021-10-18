@@ -1,10 +1,10 @@
 # Tip Calculator 
 
-## *Your name here*
+## Joseph Ngo
 
 **Tippy** computes the tip and total amount for a bill. The app uses the base amount and tip percentage to calculate the amount owed, and it also describes the quality of service based on the tip.
 
-Time spent: **X** hours spent in total
+Time spent: 3 hours spent in total
 
 ## Functionality 
 
@@ -36,7 +36,7 @@ So challenges I had while building this app include: making view constraints ali
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2021] [Joseph Ngo]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
